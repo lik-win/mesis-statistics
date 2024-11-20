@@ -1,0 +1,30 @@
+[
+  {
+    "chnName": "地图操作",
+    "enName": "Mapoperation",
+    "icon": "GridEditing",
+    "id": "Mapoperation",
+    "type": "MapOperation"
+  },
+  {
+    "chnName": "全屏",
+    "enName": "fullscreen",
+    "icon": "fullscreen",
+    "id": "fullscreen",
+    "type": "fullScreen"
+  },
+  {
+    "chnName": "放大地图",
+    "enName": "Enlarge the map",
+    "icon": "plus",
+    "id": "EnlargeTheMap",
+    "type": "zoomIn"
+  },
+  {
+    "chnName": "缩小地图",
+    "enName": "Zoom out map",
+    "icon": "jian",
+    "id": "ZoomOutMap",
+    "type": "zoomOut"
+  }
+]

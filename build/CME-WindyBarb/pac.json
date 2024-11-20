@@ -1,0 +1,15 @@
+{
+    "name": "CME-WindyBarb",
+    "version": "0.2.2",
+    "description": "CME-WindyBarb风向杆组件",
+    "main": "CME-WindyBarb.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "CME-WindyBarb风向杆组件"
+    ],
+    "author": "fy",
+    "private": false,
+    "license": "ISC"
+}

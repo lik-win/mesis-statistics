@@ -1,0 +1,14 @@
+[
+  {
+    "name": "等经纬投影",
+    "value": "EPSG:4326"
+  },
+  {
+    "name": "墨卡托投影",
+    "value": "EPSG:3857"
+  },
+  {
+    "name": "阿尔伯斯",
+    "value": "Albers"
+  }
+]

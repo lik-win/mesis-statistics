@@ -1,0 +1,15 @@
+{
+    "name": "CME-WindyStream",
+    "version": "0.1.6",
+    "description": "CME-WindyStream风流场组件",
+    "main": "CME-WindyStream.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "CME-WindyStream风流场"
+    ],
+    "author": "fy",
+    "private": false,
+    "license": "ISC"
+}

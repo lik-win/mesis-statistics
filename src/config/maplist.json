@@ -1,0 +1,22 @@
+[
+  {
+    "name": "天地图卫星影像底图",
+    "url": "http://10.1.64.154/DataServer?T=img_w&x={x}&y={y}&l={z}"
+  },
+  {
+    "name": "天地图矢量底图",
+    "url": "http://10.1.64.154/DataServer?T=vec_w&x={x}&y={y}&l={z}"
+  },
+  {
+    "name": "ARCGIS底图",
+    "url": "https://t6.tianditu.gov.cn/DataServer?T=vec_w&x={x}&y={y}&l={z}&tk=dc2c764abf8425baf4ac249b66fdeee3"
+  },
+  {
+    "name": "智图底图",
+    "url": "http://map.geoq.cn/ArcGIS/rest/services/ChinaOnlineStreetPurplishBlue/MapServer/tile/{z}/{y}/{x}"
+  },
+  {
+    "name": "星图底图",
+    "url": "https://tiles3.geovisearth.com/base/v1/img/{z}/{x}/{y}?token=82455ef06c72bb3a35bbb4d7d05fd9eceb96a94dc942a056b8feb0e5928ed96f"
+  }
+]
